@@ -1,0 +1,23 @@
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.container {
+  max-width: 600px;
+}
+
+.form-group {
+  margin-bottom: 1rem;
+}
+
+.alert {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.captcha {
+  margin: 10px 0;
+  border: 1px solid #ddd;
+  cursor: pointer;
+}
